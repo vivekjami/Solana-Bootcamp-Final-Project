@@ -81,10 +81,6 @@ Smart contract tests are located in the `test` folder. These tests ensure the co
 truffle test
 ```
 
-This command will initiate the smart contract tests and display the results in the terminal.
-
-![image](https://github.com/vivekjami/Solana-Bootcamp-Final-Project/assets/140731987/8dc52183-626c-4f39-9408-a37ba496a345)
-
 ## Frontend
 
 The DApp frontend is built using modern web technologies including React.js. It provides an intuitive and interactive user interface for auction participation.
