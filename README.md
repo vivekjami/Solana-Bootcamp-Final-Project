@@ -1,6 +1,6 @@
-# Web3 Auction DApp - README
+# Solana-bootcamp-final-project - README
 
-Welcome to the **Web3 Auction DApp** project repository! This decentralized application (DApp) leverages blockchain technology to implement an auction platform on the Ethereum network. Participants can place bids on items of interest, and the highest bidder at the end of the auction wins the item.
+Welcome to the **Solana-bootcamp-final-project** project repository! This decentralized application (DApp) leverages blockchain technology to implement some actions on the Ethereum network. Participants can mint, transfer, burn
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Welcome to the **Web3 Auction DApp** project repository! This decentralized appl
 
 ## Overview
 
-The **Final-Project** provides a user-friendly interface to participate in Ethereum-based auctions. This project ensures transparency and trust in the auction process through the use of smart contracts. Users can place bids, monitor ongoing auctions, and claim their winnings seamlessly.
+The **Final-Project** provides a user-friendly interface to participate in Ethereum-based actions. This project ensures transparency and trust in the auction process through the use of smart contracts. Users can mint,burn,transfer seamlessly.
 
 ## Features
 
