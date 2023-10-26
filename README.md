@@ -81,13 +81,6 @@ Smart contract tests are located in the `test` folder. These tests ensure the co
 truffle test
 ```
 
-## Frontend
-
-The DApp frontend is built using modern web technologies including React.js. It provides an intuitive and interactive user interface for auction participation.
-
-- **React.js**: Powers the DApp's user interface.
-- **Web3.js**: The Ethereum JavaScript API for smart contract interaction.
-- **MetaMask**: A popular Ethereum wallet browser extension for secure transactions.
 
 ## Contributing
 
